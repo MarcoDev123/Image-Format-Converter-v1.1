@@ -1,0 +1,71 @@
+IMAGE FORMAT CONVERTER SOFTWARE LICENSE AND DISCLAIMER
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR USING THIS SOFTWARE.
+
+By installing, copying, accessing, or otherwise using Image Format Converter ("the Software"), you agree to be bound by the terms of this agreement.
+
+1. SOFTWARE PROVIDED "AS IS"
+
+The Software is provided "AS IS" and without warranties of any kind, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, reliability, accuracy, or non-infringement.
+
+2. USER RESPONSIBILITY
+
+You are solely responsible for:
+
+• Selecting files for conversion.
+• Verifying the accuracy and quality of converted files.
+• Maintaining backups of original files.
+• Ensuring compatibility with your intended workflow.
+• Reviewing output files before deleting originals.
+
+It is strongly recommended that important files be backed up before performing any conversion operations.
+
+3. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the developer shall not be liable for any damages arising from the use of or inability to use the Software, including but not limited to:
+
+• Data loss
+• File corruption
+• Failed conversions
+• Image quality degradation
+• Metadata loss
+• Incorrect output formatting
+• Business interruption
+• Loss of profits or revenue
+• Hardware or software damage
+• Direct, indirect, incidental, special, consequential, or punitive damages
+
+4. FILE CONVERSION NOTICE
+
+Image conversion may result in changes to:
+
+• File size
+• Compression levels
+• Transparency information
+• Metadata and EXIF information
+• Color profiles
+• Image quality depending on the selected output format
+
+The developer does not guarantee that converted files will retain all original properties.
+
+5. THIRD-PARTY COMPONENTS
+
+The Software may include or rely upon third-party libraries and open-source components. All rights to such components remain with their respective owners and licensors.
+
+6. NO GUARANTEE OF COMPATIBILITY
+
+The developer does not guarantee that:
+
+• All image formats will convert successfully.
+• Converted files will be compatible with every application or device.
+• The Software will operate without interruption or error.
+• The Software will function correctly on all hardware and operating system configurations.
+
+7. ACCEPTANCE OF TERMS
+
+By selecting "I Agree" and continuing with the installation, you acknowledge that you have read, understood, and accepted the terms of this agreement.
+
+If you do not agree with these terms, do not install or use the Software.
+
+Copyright © 2026 Image Format Converter.
+All rights reserved.
